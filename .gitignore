@@ -1,3 +1,11 @@
+# Ignore system files
+.DS_Store
+
+# Ignore results
+sllg_data/
+*.csv
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
