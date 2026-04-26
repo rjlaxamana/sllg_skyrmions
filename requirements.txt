@@ -1,0 +1,8 @@
+# Programming Language
+python==3.13.3
+
+# Python Modules
+numpy==2.4.2
+pandas==3.0.0
+scipy==1.17.0
+tqdm==4.67.2
