@@ -19,8 +19,8 @@ initial_state = "ferro"
 alpha = 0.1
 gamma = 1.0
 dt = 0.02
-t0 = 50
-steps = int((t0+50)/dt)+1
+t0 = 500
+steps = int((t0+500)/dt)+1
 
 # --- UTILITIES ---
 def coordinate_pairs(x_coords, y_coords):
